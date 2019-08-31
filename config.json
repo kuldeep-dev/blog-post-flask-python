@@ -1,0 +1,18 @@
+{
+    "params" : {
+        "local_server": "True",
+        "local_uri" : "mysql://root:@127.0.0.1/python_blog",
+        "prod_uri" : "mysql://root:@127.0.0.1/python_blog",
+        "fb_url" : "https://facebook.com/flask",
+        "tw_url" : "https://twitter.com/flask",
+        "gt_url" : "https://github.com/flask",
+        "blog_name" : "Kuldeep Blog",
+        "gmail_username" : "testuser",
+        "gmail_password" : "testpass",
+        "no_of_posts" : 2,
+        "admin_user" : "kuldeep",
+        "admin_pass" : "kuldeep",
+        "upload_location" : "/home/kuldeepjha/projects/python/demo_post_website_flask/static/img"
+
+    }
+}
